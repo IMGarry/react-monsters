@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IMGarry/react-monsters/static/css/main.505380dd.chunk.css",
+    "main.js": "/IMGarry/react-monsters/static/js/main.f7f077c9.chunk.js",
+    "main.js.map": "/IMGarry/react-monsters/static/js/main.f7f077c9.chunk.js.map",
+    "runtime-main.js": "/IMGarry/react-monsters/static/js/runtime-main.031bddfe.js",
+    "runtime-main.js.map": "/IMGarry/react-monsters/static/js/runtime-main.031bddfe.js.map",
+    "static/js/2.9baf71f0.chunk.js": "/IMGarry/react-monsters/static/js/2.9baf71f0.chunk.js",
+    "static/js/2.9baf71f0.chunk.js.map": "/IMGarry/react-monsters/static/js/2.9baf71f0.chunk.js.map",
+    "static/js/3.763009af.chunk.js": "/IMGarry/react-monsters/static/js/3.763009af.chunk.js",
+    "static/js/3.763009af.chunk.js.map": "/IMGarry/react-monsters/static/js/3.763009af.chunk.js.map",
+    "index.html": "/IMGarry/react-monsters/index.html",
+    "static/css/main.505380dd.chunk.css.map": "/IMGarry/react-monsters/static/css/main.505380dd.chunk.css.map",
+    "static/js/2.9baf71f0.chunk.js.LICENSE.txt": "/IMGarry/react-monsters/static/js/2.9baf71f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.031bddfe.js",
+    "static/js/2.9baf71f0.chunk.js",
+    "static/css/main.505380dd.chunk.css",
+    "static/js/main.f7f077c9.chunk.js"
+  ]
+}
